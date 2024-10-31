@@ -1,0 +1,5 @@
+### getCommentById 200
+localhost:8085/api/comment/a3e82553-4dac-4e31-a55c-78230c8331ff
+
+### getCommentById 500
+localhost:8085/api/comment/a3e82553-4dac-4e31-a55c-222222222222
